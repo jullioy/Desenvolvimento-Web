@@ -1,0 +1,30 @@
+.container1 {
+    display: flex;
+    border: 1px solid;
+    padding: 100px;
+    margin: 100px;
+    width: 100%;
+}
+
+
+.container2 {
+    display: flex;
+    border: 1px solid;
+    padding: 100px;
+    width: 100%;
+}
+
+
+.container3 {
+    display: flex;
+    border: 1px solid;
+    padding: 100px;
+    width: 100%;
+}
+
+.container4{
+    display: flex;
+    border: 1px ;
+    background-color: #348a02 ;
+    width: 100%;
+}
