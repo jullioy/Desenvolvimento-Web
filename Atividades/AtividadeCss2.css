@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+}
+
+body {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #348a02 ;
+    display: flex;
+    font-family: Segoe UI;
+}
+
+.container{
+    
+
+    height: 60%;
+    background-color: #ecebeb;
+    width: 26%;
+    border-radius: 100px 20px;
+    box-shadow: -5px 10px 20px -10px rgba(0, 0, 0, 075);
+}
+
+form{
+    height: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+}
+
+img {
+    height: 30%;
+    margin-bottom: 30px;    
+
+}
+
+label{
+    font-size: small;
+    margin-bottom: 10px;
+    
+}
+
+input{
+    margin-bottom: 30px;
+    height: 25px;
+    border-radius: 5px;
+    border: 1px solid  lightgray;
+}
+
+button{
+    background-color: #348a02;
+    color: white;
+    height: 30px;
+    width: 170px;
+    font-size: .8em;
+    border-radius: 5px;
+    border: 0px;
+}
